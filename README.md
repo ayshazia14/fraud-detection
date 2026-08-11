@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection Engine
+# Credit Card Fraud Detection
 
 A comparative study of fraud detection approaches, XGBoost vs. a PyTorch neural network, each evaluated under two class-imbalance strategies (class weighting vs. SMOTE) and deployed as an interactive Streamlit dashboard.
 
